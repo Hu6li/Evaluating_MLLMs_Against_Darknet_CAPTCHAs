@@ -16,7 +16,7 @@ import sys
 import time
 from pathlib import Path
 
-from polarGradientValidator import solve_rotation_polar_gradient
+from polarGradientCore import solve_rotation_single_image
 
 SAMPLE_DIR     = Path(__file__).parent / "samples"
 RESULTS_DIR = Path(__file__).parent
@@ -56,7 +56,7 @@ def run(round_to_45: bool, tolerance: int) -> None:
     n_total = len(samples)
 
     print("=" * 64)
-    print("Polar Gradient — Samples Benchmark")
+    print("Polar Gradient (Single Image) — Samples Benchmark")
     print("=" * 64)
     print(f"  Pairs       : {n_total}")
     print(f"  Round to 45°: {'Yes' if round_to_45 else 'No'}")
@@ -67,16 +67,15 @@ def run(round_to_45: bool, tolerance: int) -> None:
     n_success = 0
 
     for idx, s in enumerate(samples, 1):
-        outer_path = SAMPLE_DIR / s["folder"] / s["outer"]
-        inner_path = SAMPLE_DIR / s["folder"] / s["inner"]
+        combined_path = SAMPLE_DIR / f"{s['key']}_combined.jpg"
 
-        if not outer_path.exists() or not inner_path.exists():
+        if not combined_path.exists():
             print(f"  [{idx:>3}/{n_total}] {s['key']}  SKIP (missing image)")
             continue
 
         t0 = time.perf_counter()
-        predicted, confidence, is_ambiguous = solve_rotation_polar_gradient(
-            str(inner_path), str(outer_path), round_to_45=round_to_45
+        predicted, confidence, is_ambiguous = solve_rotation_single_image(
+            str(combined_path), round_to_45=round_to_45
         )
         elapsed_ms = (time.perf_counter() - t0) * 1000
 
@@ -112,7 +111,7 @@ def run(round_to_45: bool, tolerance: int) -> None:
     acc = n_success / n_evaluated * 100 if n_evaluated else 0.0
 
     summary = {
-        "solver":       "polar_gradient",
+        "solver":       "polar_gradient_single_image",
         "round_to_45":  round_to_45,
         "tolerance":    tolerance,
         "count":        n_evaluated,
