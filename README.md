@@ -1,6 +1,6 @@
-# CAPTCHAs are Broken — Reproduction Samples
+# Evaluating Multimodal Language Models Against Darknet CAPTCHAs — Reproduction Samples
 
-This repository contains the sample data and solver code used to reproduce the experimental results from the paper **"CAPTCHAs are Broken"**.
+This repository contains the sample data and solver code used to reproduce the experimental results from the paper **"Evaluating Multimodal Language Models Against Darknet CAPTCHAs"**.
 
 Three CAPTCHA challenge types are covered, each in its own subdirectory with sample images, ground-truth annotations, benchmark scripts, and LLM prompts.
 
