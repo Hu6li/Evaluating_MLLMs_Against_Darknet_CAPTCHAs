@@ -1,0 +1,264 @@
+{
+  "images": [
+    {
+      "folder": "images_1",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 311,
+          "confidence": 306.1979,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 129,
+          "confidence": 136.2802,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 270,
+          "confidence": 234.5026,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_2",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 220,
+          "confidence": 145.0908,
+          "ambiguous": true
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 44,
+          "confidence": 212.5381,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 176,
+          "confidence": 200.4901,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_3",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 137,
+          "confidence": 218.3358,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 313,
+          "confidence": 165.7108,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 95,
+          "confidence": 170.9832,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_4",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 316,
+          "confidence": 166.2008,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 133,
+          "confidence": 221.7983,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 276,
+          "confidence": 266.2924,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_5",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 90,
+          "confidence": 86.4875,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 260,
+          "confidence": 185.5111,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 130,
+          "confidence": 89.3129,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_6",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 175,
+          "confidence": 230.2816,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 3,
+          "confidence": 100.5529,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 229,
+          "confidence": 155.1716,
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "folder": "images_7",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 335,
+          "confidence": 65.1834,
+          "ambiguous": true
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 180,
+          "confidence": 158.1289,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 46,
+          "confidence": 202.6555,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_8",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 3,
+          "confidence": 221.6604,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 184,
+          "confidence": 199.1726,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 43,
+          "confidence": 85.0015,
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "folder": "images_9",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 309,
+          "confidence": 294.2173,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 137,
+          "confidence": 236.3635,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 266,
+          "confidence": 281.6564,
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "folder": "images_10",
+      "pairs": [
+        {
+          "outer": "img_ix0.jpg",
+          "inner": "img_ix1.jpg",
+          "rotation_cw": 0,
+          "confidence": 278.6368,
+          "ambiguous": false
+        },
+        {
+          "outer": "img_ix2.jpg",
+          "inner": "img_ix3.jpg",
+          "rotation_cw": 184,
+          "confidence": 115.3354,
+          "ambiguous": true
+        },
+        {
+          "outer": "img_ix4.jpg",
+          "inner": "img_ix5.jpg",
+          "rotation_cw": 41,
+          "confidence": 203.9641,
+          "ambiguous": false
+        }
+      ]
+    }
+  ]
+}

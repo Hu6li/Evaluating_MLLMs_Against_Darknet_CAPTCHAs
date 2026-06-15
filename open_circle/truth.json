@@ -1,0 +1,1010 @@
+{
+  "tolerance_px": 30,
+  "images": [
+    {
+      "file": "1.jpg",
+      "center_x": 177,
+      "center_y": 141
+    },
+    {
+      "file": "2.jpg",
+      "center_x": 225,
+      "center_y": 313
+    },
+    {
+      "file": "3.jpg",
+      "center_x": 61,
+      "center_y": 111
+    },
+    {
+      "file": "4.jpg",
+      "center_x": 336,
+      "center_y": 33
+    },
+    {
+      "file": "5.jpg",
+      "center_x": 114,
+      "center_y": 305
+    },
+    {
+      "file": "6.jpg",
+      "center_x": 297,
+      "center_y": 337
+    },
+    {
+      "file": "7.jpg",
+      "center_x": 284,
+      "center_y": 58
+    },
+    {
+      "file": "8.jpg",
+      "center_x": 183,
+      "center_y": 282
+    },
+    {
+      "file": "9.jpg",
+      "center_x": 74,
+      "center_y": 317
+    },
+    {
+      "file": "10.jpg",
+      "center_x": 108,
+      "center_y": 247
+    },
+    {
+      "file": "11.jpg",
+      "center_x": 223,
+      "center_y": 242
+    },
+    {
+      "file": "12.jpg",
+      "center_x": 50,
+      "center_y": 23
+    },
+    {
+      "file": "13.jpg",
+      "center_x": 224,
+      "center_y": 168
+    },
+    {
+      "file": "14.jpg",
+      "center_x": 227,
+      "center_y": 64
+    },
+    {
+      "file": "15.jpg",
+      "center_x": 133,
+      "center_y": 178
+    },
+    {
+      "file": "16.jpg",
+      "center_x": 21,
+      "center_y": 68
+    },
+    {
+      "file": "17.jpg",
+      "center_x": 134,
+      "center_y": 335
+    },
+    {
+      "file": "18.jpg",
+      "center_x": 170,
+      "center_y": 203
+    },
+    {
+      "file": "19.jpg",
+      "center_x": 141,
+      "center_y": 270
+    },
+    {
+      "file": "20.jpg",
+      "center_x": 39,
+      "center_y": 162
+    },
+    {
+      "file": "21.jpg",
+      "center_x": 193,
+      "center_y": 23
+    },
+    {
+      "file": "22.jpg",
+      "center_x": 184,
+      "center_y": 286
+    },
+    {
+      "file": "23.jpg",
+      "center_x": 83,
+      "center_y": 238
+    },
+    {
+      "file": "24.jpg",
+      "center_x": 58,
+      "center_y": 156
+    },
+    {
+      "file": "25.jpg",
+      "center_x": 337,
+      "center_y": 48
+    },
+    {
+      "file": "26.jpg",
+      "center_x": 182,
+      "center_y": 192
+    },
+    {
+      "file": "27.jpg",
+      "center_x": 133,
+      "center_y": 118
+    },
+    {
+      "file": "28.jpg",
+      "center_x": 309,
+      "center_y": 147
+    },
+    {
+      "file": "29.jpg",
+      "center_x": 273,
+      "center_y": 116
+    },
+    {
+      "file": "30.jpg",
+      "center_x": 42,
+      "center_y": 42
+    },
+    {
+      "file": "31.jpg",
+      "center_x": 21,
+      "center_y": 99
+    },
+    {
+      "file": "32.jpg",
+      "center_x": 151,
+      "center_y": 72
+    },
+    {
+      "file": "33.jpg",
+      "center_x": 120,
+      "center_y": 65
+    },
+    {
+      "file": "34.jpg",
+      "center_x": 28,
+      "center_y": 261
+    },
+    {
+      "file": "35.jpg",
+      "center_x": 83,
+      "center_y": 153
+    },
+    {
+      "file": "36.jpg",
+      "center_x": 207,
+      "center_y": 80
+    },
+    {
+      "file": "37.jpg",
+      "center_x": 202,
+      "center_y": 31
+    },
+    {
+      "file": "38.jpg",
+      "center_x": 92,
+      "center_y": 324
+    },
+    {
+      "file": "39.jpg",
+      "center_x": 84,
+      "center_y": 297
+    },
+    {
+      "file": "40.jpg",
+      "center_x": 84,
+      "center_y": 74
+    },
+    {
+      "file": "41.jpg",
+      "center_x": 20,
+      "center_y": 98
+    },
+    {
+      "file": "42.jpg",
+      "center_x": 192,
+      "center_y": 27
+    },
+    {
+      "file": "43.jpg",
+      "center_x": 22,
+      "center_y": 224
+    },
+    {
+      "file": "44.jpg",
+      "center_x": 247,
+      "center_y": 213
+    },
+    {
+      "file": "45.jpg",
+      "center_x": 113,
+      "center_y": 184
+    },
+    {
+      "file": "46.jpg",
+      "center_x": 283,
+      "center_y": 65
+    },
+    {
+      "file": "47.jpg",
+      "center_x": 27,
+      "center_y": 23
+    },
+    {
+      "file": "48.jpg",
+      "center_x": 148,
+      "center_y": 22
+    },
+    {
+      "file": "49.jpg",
+      "center_x": 49,
+      "center_y": 170
+    },
+    {
+      "file": "50.jpg",
+      "center_x": 335,
+      "center_y": 168
+    },
+    {
+      "file": "51.jpg",
+      "center_x": 191,
+      "center_y": 58
+    },
+    {
+      "file": "52.jpg",
+      "center_x": 91,
+      "center_y": 325
+    },
+    {
+      "file": "53.jpg",
+      "center_x": 109,
+      "center_y": 31
+    },
+    {
+      "file": "54.jpg",
+      "center_x": 45,
+      "center_y": 54
+    },
+    {
+      "file": "55.jpg",
+      "center_x": 63,
+      "center_y": 204
+    },
+    {
+      "file": "56.jpg",
+      "center_x": 99,
+      "center_y": 252
+    },
+    {
+      "file": "57.jpg",
+      "center_x": 295,
+      "center_y": 22
+    },
+    {
+      "file": "58.jpg",
+      "center_x": 101,
+      "center_y": 244
+    },
+    {
+      "file": "59.jpg",
+      "center_x": 107,
+      "center_y": 29
+    },
+    {
+      "file": "60.jpg",
+      "center_x": 47,
+      "center_y": 240
+    },
+    {
+      "file": "61.jpg",
+      "center_x": 187,
+      "center_y": 293
+    },
+    {
+      "file": "62.jpg",
+      "center_x": 328,
+      "center_y": 22
+    },
+    {
+      "file": "63.jpg",
+      "center_x": 25,
+      "center_y": 79
+    },
+    {
+      "file": "64.jpg",
+      "center_x": 179,
+      "center_y": 320
+    },
+    {
+      "file": "65.jpg",
+      "center_x": 141,
+      "center_y": 135
+    },
+    {
+      "file": "66.jpg",
+      "center_x": 46,
+      "center_y": 177
+    },
+    {
+      "file": "67.jpg",
+      "center_x": 198,
+      "center_y": 175
+    },
+    {
+      "file": "68.jpg",
+      "center_x": 22,
+      "center_y": 164
+    },
+    {
+      "file": "69.jpg",
+      "center_x": 201,
+      "center_y": 56
+    },
+    {
+      "file": "70.jpg",
+      "center_x": 42,
+      "center_y": 258
+    },
+    {
+      "file": "71.jpg",
+      "center_x": 334,
+      "center_y": 221
+    },
+    {
+      "file": "72.jpg",
+      "center_x": 44,
+      "center_y": 234
+    },
+    {
+      "file": "73.jpg",
+      "center_x": 22,
+      "center_y": 286
+    },
+    {
+      "file": "74.jpg",
+      "center_x": 263,
+      "center_y": 103
+    },
+    {
+      "file": "75.jpg",
+      "center_x": 290,
+      "center_y": 324
+    },
+    {
+      "file": "76.jpg",
+      "center_x": 43,
+      "center_y": 151
+    },
+    {
+      "file": "77.jpg",
+      "center_x": 48,
+      "center_y": 113
+    },
+    {
+      "file": "78.jpg",
+      "center_x": 93,
+      "center_y": 127
+    },
+    {
+      "file": "79.jpg",
+      "center_x": 312,
+      "center_y": 26
+    },
+    {
+      "file": "80.jpg",
+      "center_x": 270,
+      "center_y": 41
+    },
+    {
+      "file": "81.jpg",
+      "center_x": 233,
+      "center_y": 325
+    },
+    {
+      "file": "82.jpg",
+      "center_x": 182,
+      "center_y": 268
+    },
+    {
+      "file": "83.jpg",
+      "center_x": 194,
+      "center_y": 94
+    },
+    {
+      "file": "84.jpg",
+      "center_x": 270,
+      "center_y": 39
+    },
+    {
+      "file": "85.jpg",
+      "center_x": 296,
+      "center_y": 96
+    },
+    {
+      "file": "86.jpg",
+      "center_x": 250,
+      "center_y": 276
+    },
+    {
+      "file": "87.jpg",
+      "center_x": 112,
+      "center_y": 194
+    },
+    {
+      "file": "88.jpg",
+      "center_x": 81,
+      "center_y": 140
+    },
+    {
+      "file": "89.jpg",
+      "center_x": 242,
+      "center_y": 334
+    },
+    {
+      "file": "90.jpg",
+      "center_x": 172,
+      "center_y": 131
+    },
+    {
+      "file": "91.jpg",
+      "center_x": 48,
+      "center_y": 22
+    },
+    {
+      "file": "92.jpg",
+      "center_x": 119,
+      "center_y": 84
+    },
+    {
+      "file": "93.jpg",
+      "center_x": 26,
+      "center_y": 242
+    },
+    {
+      "file": "94.jpg",
+      "center_x": 25,
+      "center_y": 167
+    },
+    {
+      "file": "95.jpg",
+      "center_x": 64,
+      "center_y": 181
+    },
+    {
+      "file": "96.jpg",
+      "center_x": 317,
+      "center_y": 97
+    },
+    {
+      "file": "97.jpg",
+      "center_x": 329,
+      "center_y": 60
+    },
+    {
+      "file": "98.jpg",
+      "center_x": 217,
+      "center_y": 71
+    },
+    {
+      "file": "99.jpg",
+      "center_x": 296,
+      "center_y": 28
+    },
+    {
+      "file": "100.jpg",
+      "center_x": 22,
+      "center_y": 116
+    },
+    {
+      "file": "101.jpg",
+      "center_x": 21,
+      "center_y": 49
+    },
+    {
+      "file": "102.jpg",
+      "center_x": 84,
+      "center_y": 53
+    },
+    {
+      "file": "103.jpg",
+      "center_x": 20,
+      "center_y": 25
+    },
+    {
+      "file": "104.jpg",
+      "center_x": 40,
+      "center_y": 194
+    },
+    {
+      "file": "105.jpg",
+      "center_x": 162,
+      "center_y": 102
+    },
+    {
+      "file": "106.jpg",
+      "center_x": 241,
+      "center_y": 57
+    },
+    {
+      "file": "107.jpg",
+      "center_x": 22,
+      "center_y": 123
+    },
+    {
+      "file": "108.jpg",
+      "center_x": 231,
+      "center_y": 215
+    },
+    {
+      "file": "109.jpg",
+      "center_x": 41,
+      "center_y": 294
+    },
+    {
+      "file": "110.jpg",
+      "center_x": 286,
+      "center_y": 160
+    },
+    {
+      "file": "111.jpg",
+      "center_x": 182,
+      "center_y": 295
+    },
+    {
+      "file": "112.jpg",
+      "center_x": 249,
+      "center_y": 42
+    },
+    {
+      "file": "113.jpg",
+      "center_x": 174,
+      "center_y": 22
+    },
+    {
+      "file": "114.jpg",
+      "center_x": 70,
+      "center_y": 50
+    },
+    {
+      "file": "115.jpg",
+      "center_x": 187,
+      "center_y": 330
+    },
+    {
+      "file": "116.jpg",
+      "center_x": 87,
+      "center_y": 77
+    },
+    {
+      "file": "117.jpg",
+      "center_x": 224,
+      "center_y": 149
+    },
+    {
+      "file": "118.jpg",
+      "center_x": 220,
+      "center_y": 103
+    },
+    {
+      "file": "119.jpg",
+      "center_x": 295,
+      "center_y": 88
+    },
+    {
+      "file": "120.jpg",
+      "center_x": 239,
+      "center_y": 170
+    },
+    {
+      "file": "121.jpg",
+      "center_x": 58,
+      "center_y": 22
+    },
+    {
+      "file": "122.jpg",
+      "center_x": 111,
+      "center_y": 182
+    },
+    {
+      "file": "123.jpg",
+      "center_x": 286,
+      "center_y": 59
+    },
+    {
+      "file": "124.jpg",
+      "center_x": 60,
+      "center_y": 29
+    },
+    {
+      "file": "125.jpg",
+      "center_x": 56,
+      "center_y": 23
+    },
+    {
+      "file": "126.jpg",
+      "center_x": 20,
+      "center_y": 75
+    },
+    {
+      "file": "127.jpg",
+      "center_x": 114,
+      "center_y": 116
+    },
+    {
+      "file": "128.jpg",
+      "center_x": 21,
+      "center_y": 96
+    },
+    {
+      "file": "129.jpg",
+      "center_x": 21,
+      "center_y": 32
+    },
+    {
+      "file": "130.jpg",
+      "center_x": 275,
+      "center_y": 176
+    },
+    {
+      "file": "131.jpg",
+      "center_x": 51,
+      "center_y": 126
+    },
+    {
+      "file": "132.jpg",
+      "center_x": 57,
+      "center_y": 294
+    },
+    {
+      "file": "133.jpg",
+      "center_x": 19,
+      "center_y": 119
+    },
+    {
+      "file": "134.jpg",
+      "center_x": 128,
+      "center_y": 238
+    },
+    {
+      "file": "135.jpg",
+      "center_x": 262,
+      "center_y": 58
+    },
+    {
+      "file": "136.jpg",
+      "center_x": 27,
+      "center_y": 110
+    },
+    {
+      "file": "137.jpg",
+      "center_x": 113,
+      "center_y": 292
+    },
+    {
+      "file": "138.jpg",
+      "center_x": 192,
+      "center_y": 30
+    },
+    {
+      "file": "139.jpg",
+      "center_x": 317,
+      "center_y": 126
+    },
+    {
+      "file": "140.jpg",
+      "center_x": 165,
+      "center_y": 72
+    },
+    {
+      "file": "141.jpg",
+      "center_x": 84,
+      "center_y": 166
+    },
+    {
+      "file": "142.jpg",
+      "center_x": 43,
+      "center_y": 38
+    },
+    {
+      "file": "143.jpg",
+      "center_x": 68,
+      "center_y": 47
+    },
+    {
+      "file": "144.jpg",
+      "center_x": 237,
+      "center_y": 57
+    },
+    {
+      "file": "145.jpg",
+      "center_x": 94,
+      "center_y": 125
+    },
+    {
+      "file": "146.jpg",
+      "center_x": 174,
+      "center_y": 247
+    },
+    {
+      "file": "147.jpg",
+      "center_x": 170,
+      "center_y": 51
+    },
+    {
+      "file": "148.jpg",
+      "center_x": 63,
+      "center_y": 52
+    },
+    {
+      "file": "149.jpg",
+      "center_x": 35,
+      "center_y": 250
+    },
+    {
+      "file": "150.jpg",
+      "center_x": 35,
+      "center_y": 330
+    },
+    {
+      "file": "151.jpg",
+      "center_x": 99,
+      "center_y": 87
+    },
+    {
+      "file": "152.jpg",
+      "center_x": 83,
+      "center_y": 86
+    },
+    {
+      "file": "153.jpg",
+      "center_x": 180,
+      "center_y": 312
+    },
+    {
+      "file": "154.jpg",
+      "center_x": 180,
+      "center_y": 336
+    },
+    {
+      "file": "155.jpg",
+      "center_x": 113,
+      "center_y": 144
+    },
+    {
+      "file": "156.jpg",
+      "center_x": 181,
+      "center_y": 23
+    },
+    {
+      "file": "157.jpg",
+      "center_x": 144,
+      "center_y": 22
+    },
+    {
+      "file": "158.jpg",
+      "center_x": 266,
+      "center_y": 93
+    },
+    {
+      "file": "159.jpg",
+      "center_x": 26,
+      "center_y": 329
+    },
+    {
+      "file": "160.jpg",
+      "center_x": 27,
+      "center_y": 229
+    },
+    {
+      "file": "161.jpg",
+      "center_x": 196,
+      "center_y": 170
+    },
+    {
+      "file": "162.jpg",
+      "center_x": 119,
+      "center_y": 324
+    },
+    {
+      "file": "163.jpg",
+      "center_x": 292,
+      "center_y": 275
+    },
+    {
+      "file": "164.jpg",
+      "center_x": 21,
+      "center_y": 161
+    },
+    {
+      "file": "165.jpg",
+      "center_x": 100,
+      "center_y": 324
+    },
+    {
+      "file": "166.jpg",
+      "center_x": 165,
+      "center_y": 22
+    },
+    {
+      "file": "167.jpg",
+      "center_x": 71,
+      "center_y": 232
+    },
+    {
+      "file": "168.jpg",
+      "center_x": 21,
+      "center_y": 336
+    },
+    {
+      "file": "169.jpg",
+      "center_x": 307,
+      "center_y": 172
+    },
+    {
+      "file": "170.jpg",
+      "center_x": 56,
+      "center_y": 239
+    },
+    {
+      "file": "171.jpg",
+      "center_x": 192,
+      "center_y": 182
+    },
+    {
+      "file": "172.jpg",
+      "center_x": 170,
+      "center_y": 151
+    },
+    {
+      "file": "173.jpg",
+      "center_x": 20,
+      "center_y": 45
+    },
+    {
+      "file": "174.jpg",
+      "center_x": 21,
+      "center_y": 72
+    },
+    {
+      "file": "175.jpg",
+      "center_x": 225,
+      "center_y": 74
+    },
+    {
+      "file": "176.jpg",
+      "center_x": 73,
+      "center_y": 337
+    },
+    {
+      "file": "177.jpg",
+      "center_x": 168,
+      "center_y": 240
+    },
+    {
+      "file": "178.jpg",
+      "center_x": 22,
+      "center_y": 21
+    },
+    {
+      "file": "179.jpg",
+      "center_x": 116,
+      "center_y": 49
+    },
+    {
+      "file": "180.jpg",
+      "center_x": 323,
+      "center_y": 312
+    },
+    {
+      "file": "181.jpg",
+      "center_x": 120,
+      "center_y": 23
+    },
+    {
+      "file": "182.jpg",
+      "center_x": 253,
+      "center_y": 23
+    },
+    {
+      "file": "183.jpg",
+      "center_x": 294,
+      "center_y": 21
+    },
+    {
+      "file": "184.jpg",
+      "center_x": 111,
+      "center_y": 228
+    },
+    {
+      "file": "185.jpg",
+      "center_x": 42,
+      "center_y": 295
+    },
+    {
+      "file": "186.jpg",
+      "center_x": 183,
+      "center_y": 223
+    },
+    {
+      "file": "187.jpg",
+      "center_x": 88,
+      "center_y": 255
+    },
+    {
+      "file": "188.jpg",
+      "center_x": 96,
+      "center_y": 181
+    },
+    {
+      "file": "189.jpg",
+      "center_x": 22,
+      "center_y": 54
+    },
+    {
+      "file": "190.jpg",
+      "center_x": 270,
+      "center_y": 20
+    },
+    {
+      "file": "191.jpg",
+      "center_x": 170,
+      "center_y": 130
+    },
+    {
+      "file": "192.jpg",
+      "center_x": 41,
+      "center_y": 313
+    },
+    {
+      "file": "193.jpg",
+      "center_x": 245,
+      "center_y": 294
+    },
+    {
+      "file": "194.jpg",
+      "center_x": 219,
+      "center_y": 280
+    },
+    {
+      "file": "195.jpg",
+      "center_x": 292,
+      "center_y": 22
+    },
+    {
+      "file": "196.jpg",
+      "center_x": 21,
+      "center_y": 284
+    },
+    {
+      "file": "197.jpg",
+      "center_x": 69,
+      "center_y": 285
+    },
+    {
+      "file": "198.jpg",
+      "center_x": 71,
+      "center_y": 106
+    },
+    {
+      "file": "199.jpg",
+      "center_x": 246,
+      "center_y": 222
+    },
+    {
+      "file": "200.jpg",
+      "center_x": 26,
+      "center_y": 247
+    },
+    {
+      "file": "image.jpg",
+      "center_x": 308,
+      "center_y": 308
+    }
+  ]
+}
